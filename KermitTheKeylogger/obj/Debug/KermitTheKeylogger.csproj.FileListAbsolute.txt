@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\KermitTheKeylogger\KermitTheKeylogger\bin\Debug\KermitTheKeylogger.exe
+C:\Users\User\source\repos\KermitTheKeylogger\KermitTheKeylogger\bin\Debug\KermitTheKeylogger.pdb
+C:\Users\User\source\repos\KermitTheKeylogger\KermitTheKeylogger\obj\Debug\KermitTheKeylogger.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\KermitTheKeylogger\KermitTheKeylogger\obj\Debug\KermitTheKeylogger.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KermitTheKeylogger\KermitTheKeylogger\obj\Debug\KermitTheKeylogger.exe
+C:\Users\User\source\repos\KermitTheKeylogger\KermitTheKeylogger\obj\Debug\KermitTheKeylogger.pdb
